@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://ayushk972.github.io/TaskBuddy/",
+  "homepage": "https://ayushk972.github.io/taskbuddymay",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
